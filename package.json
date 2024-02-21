@@ -1,11 +1,11 @@
 {
-  "name": "react-18-virtual",
+  "name": "react-virtual-ocuco",
   "version": "2.10.4",
   "description": "Hooks for virtualizing scrollable elements in React",
   "author": "tannerlinsley",
   "license": "MIT",
   "repository": "tannerlinsley/react-virtual",
-  "homepage": "https://github.com/tannerlinsley/react-virtual#readme",
+  "homepage": "https://github.com/Ocuco/react18-virtual-ocuco",
   "support": {
     "backing": "npm-funding"
   },
@@ -44,7 +44,7 @@
     "@reach/observe-rect": "^1.1.0"
   },
   "peerDependencies": {
-    "react": "^16.6.3 || ^17.0.0 || ^18.2.0"
+    "react": "^16.6.3 || ^17.0.0 || ^18.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.8.6",
